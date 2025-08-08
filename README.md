@@ -22,7 +22,8 @@ The project is **modular** with separate files for the main game loop, battle lo
 ---
 
 ## 🎥 Video Walkthrough
-[Link to Video Walkthrough](ADD_LINK_HERE)  
+[Link to Video Walkthrough](https://github.com/SarveshPol7/card-battle-game/blob/main/Walkthrough%201_polsr%20-%20Made%20with%20Clipchamp.mp4)  
+()
 *(Demonstrates gameplay, explains code structure, and connects to course concepts.)*
 
 ## 🧱 File Structure
@@ -47,6 +48,7 @@ card-battle-game/
 2. **Enemy Turn** → The enemy plays randomly.
 
 3. **Win Condition** → The first player to reach **0 HP** loses.
+
 
 
 
