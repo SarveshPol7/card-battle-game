@@ -1,9 +1,8 @@
 # 🃏 Card Battle Game
 
 **Author:** Sarvesh Pol  
-**Type:** Individual Project (Self-contained)  
-**Course:** Programming Paradigms  
-
+**Type:** Individual Project   
+**Course:** Programming Languages CS3003
 ---
 
 ## 🎯 Project Overview
@@ -22,6 +21,10 @@ The project is **modular** with separate files for the main game loop, battle lo
 
 ---
 
+## 🎥 Video Walkthrough
+[Link to Video Walkthrough](ADD_LINK_HERE)  
+*(Demonstrates gameplay, explains code structure, and connects to course concepts.)*
+
 ## 🧱 File Structure
 card-battle-game/
 │
@@ -30,4 +33,20 @@ card-battle-game/
 ├── player.py     → Player class (health, shield, hand, deck management)
 ├── card.py       → Card class (types: attack, defend, heal)
 └── README.md     → Project documentation
+
+
+## 🎮 How to Play
+
+1. **On your turn**, choose a card by entering its number.
+
+### Card Types
+- 🗡 **Attack** → Damage the opponent.
+- 🛡 **Defend** → Gain shield for one turn.
+- 💊 **Heal** → Recover HP.
+
+2. **Enemy Turn** → The enemy plays randomly.
+
+3. **Win Condition** → The first player to reach **0 HP** loses.
+
+
 
